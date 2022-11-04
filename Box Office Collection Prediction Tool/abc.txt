@@ -1,0 +1,8 @@
+Dataset: Bahubali2vsDangal.csv
+  
+    It contains Data of Day wise collections of the bollywood movies 
+    Bahubali 2 and Dangal (in crores) for the first 9 days.    
+
+Problem Statement:
+    Develop a machine learning model based on linear regressor 
+    to predict which movie would collect more money on the 10th day.
